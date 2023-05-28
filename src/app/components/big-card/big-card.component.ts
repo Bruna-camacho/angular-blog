@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./big-card.component.css']
 })
 export class BigCardComponent {
+  photoCover: string =""
+  cardTitle:string =""
+  cardDescription: string =""
 
 }
